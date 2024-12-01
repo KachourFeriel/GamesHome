@@ -168,34 +168,8 @@
       ],
       "price": "16.99$"
     },
-    {
-      "id":13,
-      "name": "Chibi-Robo",
-      "game": "Chibi-Robo!",
-      "role": "Petit robot domestique",
-      "description": "Chibi-Robo est un robot miniature qui aide les familles avec les tâches ménagères.",
-      "image": "",
-      "abilities": [
-        "Nettoyage",
-        "Interaction avec objets",
-        "Collecte d'énergie"
-      ],
-      "price": "17.99$"
-    },
-    {
-      "id": 14,
-      "name": "Animal Crossing Villagers",
-      "game": "Animal Crossing",
-      "role": "Habitants d'une île ou d'une ville",
-      "description": "Les personnages d'Animal Crossing sont des animaux anthropomorphes vivant dans un village.",
-      "image": "",
-      "abilities": [
-        "Échange d'objets",
-        "Création d'objets",
-        "Fêtes et événements"
-      ],
-      "price": "19.99$"
-    },
+    
+    
     {
       "id": 15,
       "name": "Hamtaro",
