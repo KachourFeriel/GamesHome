@@ -360,14 +360,7 @@
       "description": "Le dernier FIFA sous ce nom, avec le mode Coupe du Monde et des équipes féminines.",
       "image": "assets/"
     },
-     {
-      "id": 31,
-      "title": "Marvel's Spider-Man 2",
-      "platform": "PlayStation 5",
-      "price": 79.99,
-      "description": "Incarnez Peter Parker et Miles Morales dans cette aventure spectaculaire contre Venom et Kraven.",
-      "image":"assets/"
-    },
+    
     {
       "id": 32,
       "title": "Marvel's Spider-Man: Miles Morales",
@@ -376,14 +369,7 @@
       "description": "Devenez Miles Morales, le nouveau Spider-Man, et protégez Harlem avec des pouvoirs uniques.",
       "image":"assets/"
     },
-    {
-      "id": 33,
-      "title": "Marvel's Spider-Man Remastered",
-      "platform": "PlayStation 5, PC",
-      "price": 59.99,
-      "description": "Revisitez l'aventure originale avec des graphismes 4K améliorés et des performances optimisées.",
-      "image":"assets/"
-    },
+  
     {
       "id":34,
       "title": "Gran Turismo 7",
@@ -392,14 +378,7 @@
       "description": "Le jeu de simulation de course ultime avec des graphismes époustouflants et des options de personnalisation complètes.",
       "image": "assets/"
     },
-    {
-      "id": 35,
-      "title": "Gran Turismo Sport",
-      "platform": "PlayStation 4",
-      "price": 29.99,
-      "description": "Un jeu axé sur la compétition en ligne avec des tournois sous licence officielle FIA.",
-      "image": "assets/"
-    },
+   
     {
       "id": 36,
       "title": "Ghost of Tsushima: Director's Cut",
@@ -408,22 +387,7 @@
       "description": "Incarnez Jin Sakai dans une version enrichie de Ghost of Tsushima, avec une extension inédite sur l'île d'Iki.",
       "image":"assets/"
     },
-    {
-      "id": 37,
-      "title": "Ghost of Tsushima Standard Edition",
-      "platform": "PlayStation 4, PlayStation 5",
-      "price": 49.99,
-      "description": "Vivez l'histoire originale de Jin Sakai et combattez pour libérer l'île de Tsushima.",
-      "image": "assets/"
-    },
-    {
-      "id":38,
-      "title": "Dauntless: Hunt Pass",
-      "platform": "PlayStation 4, Xbox One, Nintendo Switch, PC",
-      "price": "Free",
-      "description": "Participez à des chasses coopératives contre des Behemoths et profitez d'événements saisonniers.",
-      "image":"assets/"
-    },
+   
     {
       "id": 39,
       "title": "Dauntless",
@@ -432,14 +396,7 @@
       "description": "Un jeu de chasse coopérative où vous devez abattre des créatures géantes et fabriquer des armes puissantes.",
       "image":"assets/"
     },
-    {
-      "id":40,
-      "title": "Ori and the Blind Forest: Definitive Edition",
-      "platform": "Xbox One, Nintendo Switch, PC",
-      "price": 19.99,
-      "description": "Explorez une forêt magique et résolvez des énigmes complexes dans ce jeu de plateforme en 2D.",
-      "image":"assets/"
-    },
+    
     {
       "id": 41,
       "title": "Ori and the Will of the Wisps",
@@ -490,26 +447,8 @@
       "description": "Survivez cinq nuits dans une pizzeria hantée par des animatroniques malveillants. Un jeu de survie et d'horreur où chaque seconde compte.",
       "image": ""
     },
-    {
-      "id":47,
-      "name": "Five Nights at Freddy's 2",
-      "platform": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
-      "genre": "Horreur, Survival",
-      "release_date": "2014-11-10",
-      "price": "22.99$",
-      "description": "La suite du premier jeu, avec de nouveaux animatroniques et des mécaniques de gameplay améliorées. Le danger est plus grand, la tension aussi.",
-      "image": ""
-    },
-    {
-      "id": 48,
-      "name": "Five Nights at Freddy's 3",
-      "platform": "PC, PS4, Xbox One, Nintendo Switch",
-      "genre": "Horreur, Survival",
-      "release_date": "2015-03-02",
-      "price": "24.99$",
-      "description": "Le troisième jeu où le joueur doit survivre dans un parc d'attractions abandonné rempli de nouveaux animatroniques. Plus d'horreur, plus de frissons.",
-      "image": ""
-    },
+   
+   
     {
       "id": 49,
       "name": "Five Nights at Freddy's 4",
