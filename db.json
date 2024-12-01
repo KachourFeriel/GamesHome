@@ -1,5 +1,5 @@
 {
-  "characters": [
+  "games": [
     {
       "id": 1,
       "name": "Luigi",
@@ -139,13 +139,7 @@
         "Mobilité rapide"
       ],
       "price": "17.99$"
-    }
- 
-  ],
-
-
-  
-  "games": [
+    },
     {
       "id": 1,
       "title": "Super Mario Odyssey",
