@@ -216,7 +216,7 @@
       "game": "Five Nights at Freddy's",
       "role": "Mascotte animatronique maléfique",
       "description": "Freddy Fazbear est l'animatronique principal de la pizzeria, un ours en peluche qui joue un rôle majeur dans les événements effrayants du jeu.",
-      "image": "https://example.com/images/freddy.jpg",
+      "image": "",
       "abilities": [
         "Se déplace rapidement dans le restaurant",
         "S'infiltre dans le bureau",
@@ -230,7 +230,7 @@
       "game": "Five Nights at Freddy's",
       "role": "Animatronique lapin",
       "description": "Bonnie est un animatronique lapin qui joue un rôle effrayant dans le jeu en apparaissant soudainement devant le joueur.",
-      "image": "https://example.com/images/bonnie.jpg",
+      "image": "",
       "abilities": [
         "Se cache dans les couloirs sombres",
         "Peut apparaître sans avertissement",
@@ -244,7 +244,7 @@
       "game": "Five Nights at Freddy's",
       "role": "Animatronique poule",
       "description": "Chica est une animatronique agressive qui aime manger de la pizza. Elle apparaît souvent pour effrayer le joueur.",
-      "image": "https://example.com/images/chica.jpg",
+      "image": "",
       "abilities": [
         "S'infiltre silencieusement",
         "Brise la porte pour attaquer",
@@ -258,7 +258,7 @@
       "game": "Five Nights at Freddy's",
       "role": "Animatronique renard",
       "description": "Foxy est l'animatronique renard rapide et agressif, toujours prêt à attaquer le joueur.",
-      "image": "https://example.com/images/foxy.jpg",
+      "image": "",
       "abilities": [
         "Se déplace à une grande vitesse",
         "N'apparaît pas sur les caméras",
@@ -272,7 +272,7 @@
       "game": "Five Nights at Freddy's",
       "role": "Animatronique spectral",
       "description": "Golden Freddy est une version fantomatique de Freddy, apparaissant soudainement et déclenchant des événements paranormaux.",
-      "image": "https://example.com/images/golden_freddy.jpg",
+      "image": "",
       "abilities": [
         "Apparitions soudaines",
         "Effets paranormaux",
