@@ -300,14 +300,7 @@
       "image": "assets/"
     },
    
-    {
-      "id": 36,
-      "title": "Ghost of Tsushima: Director's Cut",
-      "platform": "PlayStation 4, PlayStation 5",
-      "price": 69.99,
-      "description": "Incarnez Jin Sakai dans une version enrichie de Ghost of Tsushima, avec une extension inédite sur l'île d'Iki.",
-      "image":"assets/"
-    },
+  
    
     {
       "id": 39,
@@ -358,16 +351,7 @@
       "description": "Rejoignez Lucky, un jeune renard, dans une aventure à travers des mondes colorés, des puzzles, et des boss uniques pour sauver sa sœur.",
       "image": "assets/"
     },
-{
-      "id": 46,
-      "name": "Five Nights at Freddy's",
-      "platform": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
-      "genre": "Horreur, Survival",
-      "release_date": "2014-08-08",
-      "price": "19.99$",
-      "description": "Survivez cinq nuits dans une pizzeria hantée par des animatroniques malveillants. Un jeu de survie et d'horreur où chaque seconde compte.",
-      "image": ""
-    },
+
    
    
     {
