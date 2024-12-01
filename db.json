@@ -142,36 +142,6 @@
       ],
       "price": "16.99$"
     },
-    
-    
-    {
-      "id": 15,
-      "name": "Hamtaro",
-      "game": "Hamtaro: Ham-Ham Heartbreak",
-      "role": "Hamster aventureux",
-      "description": "Hamtaro est un petit hamster curieux et joyeux, toujours prêt à aider ses amis dans des aventures.",
-      "image": "",
-      "abilities": [
-        "Aventure",
-        "Interaction avec amis",
-        "Réparation d'objets"
-      ],
-      "price": "18.99$"
-    },
-{
-      "id": 16,
-      "name": "Freddy Fazbear",
-      "game": "Five Nights at Freddy's",
-      "role": "Mascotte animatronique maléfique",
-      "description": "Freddy Fazbear est l'animatronique principal de la pizzeria, un ours en peluche qui joue un rôle majeur dans les événements effrayants du jeu.",
-      "image": "",
-      "abilities": [
-        "Se déplace rapidement dans le restaurant",
-        "S'infiltre dans le bureau",
-        "Silence terrifiant"
-      ],
-      "price": "30.00$"
-    },
    
     {
       "id": 18,
@@ -187,20 +157,7 @@
       ],
       "price": "27.00$"
     },
-    {
-      "id": 19,
-      "name": "Foxy",
-      "game": "Five Nights at Freddy's",
-      "role": "Animatronique renard",
-      "description": "Foxy est l'animatronique renard rapide et agressif, toujours prêt à attaquer le joueur.",
-      "image": "",
-      "abilities": [
-        "Se déplace à une grande vitesse",
-        "N'apparaît pas sur les caméras",
-        "Capacité à surprendre le joueur"
-      ],
-      "price": "32.00$"
-    },
+   
     {
       "id": 20,
       "name": "Golden Freddy",
