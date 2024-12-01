@@ -172,20 +172,7 @@
       ],
       "price": "30.00$"
     },
-    {
-      "id": 17,
-      "name": "Bonnie",
-      "game": "Five Nights at Freddy's",
-      "role": "Animatronique lapin",
-      "description": "Bonnie est un animatronique lapin qui joue un rôle effrayant dans le jeu en apparaissant soudainement devant le joueur.",
-      "image": "",
-      "abilities": [
-        "Se cache dans les couloirs sombres",
-        "Peut apparaître sans avertissement",
-        "Effrayant lorsqu'il est proche"
-      ],
-      "price": "28.00$"
-    },
+   
     {
       "id": 18,
       "name": "Chica",
@@ -268,14 +255,7 @@
       "description": "Un monde fantastique rempli de magie, de batailles épiques et d'invocations mythiques.",
       "image": "assets/"
     },
-    {
-      "id": 26,
-      "title": "Forza Horizon 5",
-      "platform": "Xbox Series X|S, PC",
-      "price": 59.99,
-      "description": "Explore le Mexique dans ce jeu de course spectaculaire en monde ouvert.",
-      "image":"assets/"
-    },
+   
     {
       "id": 27,
       "title": "Elden Ring",
