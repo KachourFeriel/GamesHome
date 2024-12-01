@@ -1,4 +1,4 @@
-{
+{ 
   "games": [
     {
       "id": 1,
@@ -140,8 +140,148 @@
       ],
       "price": "17.99$"
     },
+ {
+      "id": 11,
+      "name": "Kirby",
+      "game": "Kirby's Dream Land",
+      "role": "Héros rondouillard et gourmand",
+      "description": "Kirby est un petit personnage rond et rose, capable d'aspirer ses ennemis et d'absorber leurs pouvoirs.",
+      "image": "",
+      "abilities": [
+        "Aspiration d'ennemis",
+        "Absorption de pouvoirs",
+        "Vol"
+      ],
+      "price": "14.99$"
+    },
     {
-      "id": 1,
+      "id": 12,
+      "name": "Poochy",
+      "game": "Yoshi's Woolly World",
+      "role": "Chien compagnon de Yoshi",
+      "description": "Poochy est un chien tout doux et affectueux qui accompagne Yoshi dans ses aventures.",
+      "image": "",
+      "abilities": [
+        "Sauter avec Yoshi",
+        "Attaque rapide",
+        "Course rapide"
+      ],
+      "price": "16.99$"
+    },
+    {
+      "id":13,
+      "name": "Chibi-Robo",
+      "game": "Chibi-Robo!",
+      "role": "Petit robot domestique",
+      "description": "Chibi-Robo est un robot miniature qui aide les familles avec les tâches ménagères.",
+      "image": "",
+      "abilities": [
+        "Nettoyage",
+        "Interaction avec objets",
+        "Collecte d'énergie"
+      ],
+      "price": "17.99$"
+    },
+    {
+      "id": 14,
+      "name": "Animal Crossing Villagers",
+      "game": "Animal Crossing",
+      "role": "Habitants d'une île ou d'une ville",
+      "description": "Les personnages d'Animal Crossing sont des animaux anthropomorphes vivant dans un village.",
+      "image": "",
+      "abilities": [
+        "Échange d'objets",
+        "Création d'objets",
+        "Fêtes et événements"
+      ],
+      "price": "19.99$"
+    },
+    {
+      "id": 15,
+      "name": "Hamtaro",
+      "game": "Hamtaro: Ham-Ham Heartbreak",
+      "role": "Hamster aventureux",
+      "description": "Hamtaro est un petit hamster curieux et joyeux, toujours prêt à aider ses amis dans des aventures.",
+      "image": "",
+      "abilities": [
+        "Aventure",
+        "Interaction avec amis",
+        "Réparation d'objets"
+      ],
+      "price": "18.99$"
+    },
+{
+      "id": 16,
+      "name": "Freddy Fazbear",
+      "game": "Five Nights at Freddy's",
+      "role": "Mascotte animatronique maléfique",
+      "description": "Freddy Fazbear est l'animatronique principal de la pizzeria, un ours en peluche qui joue un rôle majeur dans les événements effrayants du jeu.",
+      "image": "",
+      "abilities": [
+        "Se déplace rapidement dans le restaurant",
+        "S'infiltre dans le bureau",
+        "Silence terrifiant"
+      ],
+      "price": "30.00$"
+    },
+    {
+      "id": 17,
+      "name": "Bonnie",
+      "game": "Five Nights at Freddy's",
+      "role": "Animatronique lapin",
+      "description": "Bonnie est un animatronique lapin qui joue un rôle effrayant dans le jeu en apparaissant soudainement devant le joueur.",
+      "image": "",
+      "abilities": [
+        "Se cache dans les couloirs sombres",
+        "Peut apparaître sans avertissement",
+        "Effrayant lorsqu'il est proche"
+      ],
+      "price": "28.00$"
+    },
+    {
+      "id": 18,
+      "name": "Chica",
+      "game": "Five Nights at Freddy's",
+      "role": "Animatronique poule",
+      "description": "Chica est une animatronique agressive qui aime manger de la pizza. Elle apparaît souvent pour effrayer le joueur.",
+      "image": "",
+      "abilities": [
+        "S'infiltre silencieusement",
+        "Brise la porte pour attaquer",
+        "Capacité à se déplacer rapidement"
+      ],
+      "price": "27.00$"
+    },
+    {
+      "id": 19,
+      "name": "Foxy",
+      "game": "Five Nights at Freddy's",
+      "role": "Animatronique renard",
+      "description": "Foxy est l'animatronique renard rapide et agressif, toujours prêt à attaquer le joueur.",
+      "image": "",
+      "abilities": [
+        "Se déplace à une grande vitesse",
+        "N'apparaît pas sur les caméras",
+        "Capacité à surprendre le joueur"
+      ],
+      "price": "32.00$"
+    },
+    {
+      "id": 20,
+      "name": "Golden Freddy",
+      "game": "Five Nights at Freddy's",
+      "role": "Animatronique spectral",
+      "description": "Golden Freddy est une version fantomatique de Freddy, apparaissant soudainement et déclenchant des événements paranormaux.",
+      "image": "",
+      "abilities": [
+        "Apparitions soudaines",
+        "Effets paranormaux",
+        "Peut apparaître et disparaître"
+      ],
+      "price": "35.00$"
+    },
+    {
+      "id": 21,
       "title": "Super Mario Odyssey",
       "platform": "Nintendo Switch",
       "price": 59.99,
@@ -149,7 +289,7 @@
       "image": "assets/"
     },
     {
-      "id": 2,
+      "id": 22,
       "title": "The Legend of Zelda: Breath of the Wild",
       "platform": "Nintendo Switch",
       "price": 59.99,
@@ -157,7 +297,7 @@
       "image": "assets/"
     },
     {
-      "id": 3,
+      "id": 23,
       "title": "Horizon Forbidden West",
       "platform": "PlayStation 5",
       "price": 69.99,
@@ -165,7 +305,7 @@
       "image": "assets/"
     },
     {
-      "id": 4,
+      "id": 24,
       "title": "God of War: Ragnarök",
       "platform": "PlayStation 5",
       "price": 69.99,
@@ -173,7 +313,7 @@
       "image": "assets/"
     },
     {
-      "id": 5,
+      "id": 25,
       "title": "Final Fantasy XVI",
       "platform": "PlayStation 5",
       "price": 79.99,
@@ -181,7 +321,7 @@
       "image": "assets/"
     },
     {
-      "id": 6,
+      "id": 26,
       "title": "Forza Horizon 5",
       "platform": "Xbox Series X|S, PC",
       "price": 59.99,
@@ -189,7 +329,7 @@
       "image":"assets/"
     },
     {
-      "id": 7,
+      "id": 27,
       "title": "Elden Ring",
       "platform": "PlayStation, Xbox, PC",
       "price": 59.99,
@@ -197,7 +337,7 @@
       "image": "assets/"
     },
     {
-      "id": 8,
+      "id": 28,
       "title": "Sonic Frontiers",
       "platform": "PlayStation, Xbox, Nintendo Switch, PC",
       "price": 59.99,
@@ -205,7 +345,7 @@
       "image": "assets/"
     },
     {
-      "id": 10,
+      "id": 29,
       "title": "EA Sports FC 24",
       "platform": "PlayStation 5, Xbox Series X|S, PC, Nintendo Switch",
       "price": 69.99,
@@ -213,7 +353,7 @@
       "image":"assets/"
     },
     {
-      "id": 11,
+      "id": 30,
       "title": "FIFA 23",
       "platform": "PlayStation, Xbox, Nintendo Switch, PC",
       "price": 59.99,
@@ -221,13 +361,166 @@
       "image": "assets/"
     },
      {
-      "id": 12,
+      "id": 31,
       "title": "Marvel's Spider-Man 2",
       "platform": "PlayStation 5",
       "price": 79.99,
       "description": "Incarnez Peter Parker et Miles Morales dans cette aventure spectaculaire contre Venom et Kraven.",
       "image":"assets/"
+    },
+    {
+      "id": 32,
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "platform": "PlayStation 4, PlayStation 5, PC",
+      "price": 49.99,
+      "description": "Devenez Miles Morales, le nouveau Spider-Man, et protégez Harlem avec des pouvoirs uniques.",
+      "image":"assets/"
+    },
+    {
+      "id": 33,
+      "title": "Marvel's Spider-Man Remastered",
+      "platform": "PlayStation 5, PC",
+      "price": 59.99,
+      "description": "Revisitez l'aventure originale avec des graphismes 4K améliorés et des performances optimisées.",
+      "image":"assets/"
+    },
+    {
+      "id":34,
+      "title": "Gran Turismo 7",
+      "platform": "PlayStation 4, PlayStation 5",
+      "price": 69.99,
+      "description": "Le jeu de simulation de course ultime avec des graphismes époustouflants et des options de personnalisation complètes.",
+      "image": "assets/"
+    },
+    {
+      "id": 35,
+      "title": "Gran Turismo Sport",
+      "platform": "PlayStation 4",
+      "price": 29.99,
+      "description": "Un jeu axé sur la compétition en ligne avec des tournois sous licence officielle FIA.",
+      "image": "assets/"
+    },
+    {
+      "id": 36,
+      "title": "Ghost of Tsushima: Director's Cut",
+      "platform": "PlayStation 4, PlayStation 5",
+      "price": 69.99,
+      "description": "Incarnez Jin Sakai dans une version enrichie de Ghost of Tsushima, avec une extension inédite sur l'île d'Iki.",
+      "image":"assets/"
+    },
+    {
+      "id": 37,
+      "title": "Ghost of Tsushima Standard Edition",
+      "platform": "PlayStation 4, PlayStation 5",
+      "price": 49.99,
+      "description": "Vivez l'histoire originale de Jin Sakai et combattez pour libérer l'île de Tsushima.",
+      "image": "assets/"
+    },
+    {
+      "id":38,
+      "title": "Dauntless: Hunt Pass",
+      "platform": "PlayStation 4, Xbox One, Nintendo Switch, PC",
+      "price": "Free",
+      "description": "Participez à des chasses coopératives contre des Behemoths et profitez d'événements saisonniers.",
+      "image":"assets/"
+    },
+    {
+      "id": 39,
+      "title": "Dauntless",
+      "platform": "PlayStation 4, Xbox One, Nintendo Switch, PC",
+      "price": "Free",
+      "description": "Un jeu de chasse coopérative où vous devez abattre des créatures géantes et fabriquer des armes puissantes.",
+      "image":"assets/"
+    },
+    {
+      "id":40,
+      "title": "Ori and the Blind Forest: Definitive Edition",
+      "platform": "Xbox One, Nintendo Switch, PC",
+      "price": 19.99,
+      "description": "Explorez une forêt magique et résolvez des énigmes complexes dans ce jeu de plateforme en 2D.",
+      "image":"assets/"
+    },
+    {
+      "id": 41,
+      "title": "Ori and the Will of the Wisps",
+      "platform": "Xbox One, Nintendo Switch, PC",
+      "price": 29.99,
+      "description": "Suivez Ori dans une aventure encore plus vaste avec de nouvelles capacités et un monde ouvert à explorer.",
+      "image":"assets/"
+    },
+    {
+      "id":42,
+      "title": "Fortnite Save the World",
+      "platform": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, PC",
+      "price": 39.99,
+      "description": "Mode PvE où vous devez combattre des vagues de zombies avec des armes et des fortifications.",
+      "image":"assets/"
+    },
+     {
+      "id": 43,
+      "title": "Crash Bandicoot 4: It's About Time",
+      "platform": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, PC",
+      "price": 39.99,
+      "description": "Reprenez le rôle de Crash et de Coco pour traverser des mondes dangereux et relever des défis dans ce jeu de plateforme avec des pouvoirs uniques.",
+      "image":"assets/"
+     },
+    {
+      "id":44,
+      "title": "Star Wars Jedi: Fallen Order",
+      "platform": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, PC",
+      "price": 39.99,
+      "description": "Incarnez Cal Kestis, un Jedi en fuite après l'Ordre 66, et affrontez l'Empire tout en maîtrisant la Force et le sabre laser.",
+      "image": "assets/"
+    },
+    {
+      "id": 45,
+      "title": "New Super Lucky's Tale",
+      "platform": "Nintendo Switch, Xbox One, PlayStation 4, PC",
+      "price": 29.99
+      "description": "Rejoignez Lucky, un jeune renard, dans une aventure à travers des mondes colorés, des puzzles, et des boss uniques pour sauver sa sœur.",
+      "image": "assets/"
+    },
+{
+      "id": 46,
+      "name": "Five Nights at Freddy's",
+      "platform": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+      "genre": "Horreur, Survival",
+      "release_date": "2014-08-08",
+      "price": "19.99$",
+      "description": "Survivez cinq nuits dans une pizzeria hantée par des animatroniques malveillants. Un jeu de survie et d'horreur où chaque seconde compte.",
+      "image": ""
+    },
+    {
+      "id":47,
+      "name": "Five Nights at Freddy's 2",
+      "platform": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+      "genre": "Horreur, Survival",
+      "release_date": "2014-11-10",
+      "price": "22.99$",
+      "description": "La suite du premier jeu, avec de nouveaux animatroniques et des mécaniques de gameplay améliorées. Le danger est plus grand, la tension aussi.",
+      "image": ""
+    },
+    {
+      "id": 48,
+      "name": "Five Nights at Freddy's 3",
+      "platform": "PC, PS4, Xbox One, Nintendo Switch",
+      "genre": "Horreur, Survival",
+      "release_date": "2015-03-02",
+      "price": "24.99$",
+      "description": "Le troisième jeu où le joueur doit survivre dans un parc d'attractions abandonné rempli de nouveaux animatroniques. Plus d'horreur, plus de frissons.",
+      "image": ""
+    },
+    {
+      "id": 49,
+      "name": "Five Nights at Freddy's 4",
+      "platform": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+      "genre": "Horreur, Survival",
+      "release_date": "2015-07-23",
+      "price": "26.99$",
+      "description": "Le joueur se retrouve dans la chambre d'un enfant, faisant face à des animatroniques plus terrifiants dans un cadre encore plus effrayant.",
+      "image": ""
     }
     
-  ]
+  
 }
+
