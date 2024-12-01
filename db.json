@@ -276,14 +276,7 @@
       "description": "Suivez Ori dans une aventure encore plus vaste avec de nouvelles capacités et un monde ouvert à explorer.",
       "image":"assets/"
     },
-    {
-      "id":42,
-      "title": "Fortnite Save the World",
-      "platform": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, PC",
-      "price": 39.99,
-      "description": "Mode PvE où vous devez combattre des vagues de zombies avec des armes et des fortifications.",
-      "image":"assets/"
-    },
+   
      {
       "id": 43,
       "title": "Crash Bandicoot 4: It's About Time",
@@ -292,14 +285,7 @@
       "description": "Reprenez le rôle de Crash et de Coco pour traverser des mondes dangereux et relever des défis dans ce jeu de plateforme avec des pouvoirs uniques.",
       "image":"assets/"
      },
-    {
-      "id":44,
-      "title": "Star Wars Jedi: Fallen Order",
-      "platform": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, PC",
-      "price": 39.99,
-      "description": "Incarnez Cal Kestis, un Jedi en fuite après l'Ordre 66, et affrontez l'Empire tout en maîtrisant la Force et le sabre laser.",
-      "image": "assets/"
-    },
+   
     {
       "id": 45,
       "title": "New Super Lucky's Tale",
