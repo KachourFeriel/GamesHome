@@ -28,20 +28,7 @@
       ],
       "price": "22.99$"
     },
-    {
-      "id": 3,
-      "name": "Donkey Kong",
-      "game": "Donkey Kong Country",
-      "role": "Héros fort",
-      "description": "Donkey Kong est un gorille musclé qui protège ses bananes et combat ses ennemis.",
-      "image": "",
-      "abilities": [
-        "Force surhumaine",
-        "Lancer de tonneaux",
-        "Compétences en saut"
-      ],
-      "price": "24.99$"
-    },
+    
     {
       "id": 4,
       "name": "Toad",
@@ -56,20 +43,7 @@
       ],
       "price": "18.99$"
     },
-    {
-      "id": 5,
-      "name": "Princess Daisy",
-      "game": "Super Mario Land",
-      "role": "Princesse énergique",
-      "description": "Princess Daisy est une princesse intrépide et l'amie de Mario qui prend souvent part aux aventures.",
-      "image": "",
-      "abilities": [
-        "Flottabilité",
-        "Compétences en combat",
-        "Soutien aux héros"
-      ],
-      "price": "21.99$"
-    },
+    
     {
       "id": 6,
       "name": "Waluigi",
@@ -318,14 +292,7 @@
       "description": "Explorez des îles mystérieuses avec Sonic dans ce jeu en monde ouvert.",
       "image": "assets/"
     },
-    {
-      "id": 29,
-      "title": "EA Sports FC 24",
-      "platform": "PlayStation 5, Xbox Series X|S, PC, Nintendo Switch",
-      "price": 69.99,
-      "description": "Le successeur de FIFA avec des graphismes et un gameplay de pointe.",
-      "image":"assets/"
-    },
+    
     {
       "id": 30,
       "title": "FIFA 23",
