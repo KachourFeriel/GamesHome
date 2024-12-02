@@ -246,7 +246,7 @@
       "platform": "Nintendo Switch, Xbox One, PlayStation 4, PC",
       "price": 29.99,
       "description": "Rejoignez Lucky, un jeune renard, dans une aventure à travers des mondes colorés, des puzzles, et des boss uniques pour sauver sa sœur.",
-      "image": "New Super Lucky's Tale _ Games _ bol_com.jpg"
+      "image": "New Super Lucky's Tale .jpg"
     },
     {
       "id": 49,
@@ -254,16 +254,16 @@
       "platform": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
       "genre": "Horreur, Survival",
       "release_date": "2015-07-23",
-      "price":26.99,
+      "price": "26.99$",
       "description": "Le joueur se retrouve dans la chambre d'un enfant, faisant face à des animatroniques plus terrifiants dans un cadre encore plus effrayant.",
-      "image": "Five Nights at Freddy's_ Security Breach (PS4).jpg"
+      "image": "Five Nights at Freddy's.jpg"
     },
-    {
+     {
       "id": 50,
       "name": "Minecraft",
       "platform": " Nintendo Switch, Xbox One, ChromeOS",
       "genre": "Jeu de survie, Jeu d'action-aventure, Gameplay non linéaire",
-      "price": 29,99,
+      "price": "29,99$",
       "description": "les joueurs explorent un monde tridimensionnel généré de manière procédurale avec un terrain virtuellement infini composé de voxels . Les joueurs peuvent découvrir et extraire des matières premières, fabriquer des outils et des objets, et construire des structures",
       "image": "Minecraft.jpg"
     }
