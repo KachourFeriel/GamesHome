@@ -172,7 +172,7 @@
       "id": 21,
       "title": "Super Mario Odyssey",
       "platform": "Nintendo Switch",
-      "price": 59.99,
+      "price": "59.99$",
       "description": "Mario explore différents royaumes pour sauver la princesse Peach.",
       "image": "Super Mario Odyssey .jpg"
     },
@@ -180,7 +180,7 @@
       "id": 22,
       "title": "The Legend of Zelda: Breath of the Wild",
       "platform": "Nintendo Switch",
-      "price": 59.99,
+      "price": "59.99$",
       "description": "Explore Hyrule dans cette aventure épique.",
       "image": "The Legend of Zelda_com.jpg"
     },
@@ -188,7 +188,7 @@
       "id": 23,
       "title": "Horizon Forbidden West",
       "platform": "PlayStation 5",
-      "price": 69.99,
+      "price": "69.99$",
       "description": "Une aventure post-apocalyptique avec des robots gigantesques et un monde magnifique.",
       "image": "Forbidden West.jpg"
     },
@@ -196,7 +196,7 @@
       "id": 24,
       "title": "God of War: Ragnarök",
       "platform": "PlayStation 5",
-      "price": 69.99,
+      "price": "69.99$",
       "description": "Kratos et Atreus affrontent des dieux nordiques dans cette épopée spectaculaire.",
       "image": "godofwar.jpg"
     },
@@ -204,7 +204,7 @@
       "id": 25,
       "title": "Final Fantasy XVI",
       "platform": "PlayStation 5",
-      "price": 79.99,
+      "price": "79.99$",
       "description": "Un monde fantastique rempli de magie, de batailles épiques et d'invocations mythiques.",
       "image": "Final Fantasy XVI .jpg"
     },
@@ -212,7 +212,7 @@
       "id": 27,
       "title": "Elden Ring",
       "platform": "PlayStation, Xbox, PC",
-      "price": 59.99,
+      "price": "59.99$",
       "description": "Un monde ouvert sombre et mystérieux créé par FromSoftware et George R.R. Martin.",
       "image": "Elden Ring .jpg"
     },
@@ -220,7 +220,7 @@
       "id": 28,
       "title": "Sonic Frontiers",
       "platform": "PlayStation, Xbox, Nintendo Switch, PC",
-      "price": 59.99,
+      "price": "59.99$",
       "description": "Sonic explore un monde ouvert pour la première fois et fait face à de nouveaux défis.",
       "image": "Sonic Frontiers .jpg"
     },
@@ -228,7 +228,7 @@
       "id": 29,
       "title": "Spider-Man 2",
       "platform": "PlayStation 5",
-      "price": 69.99,
+      "price": "69.99$",
       "description": "Spider-Man affronte des menaces de taille tout en jonglant avec sa vie personnelle.",
       "image": "SPIDER-MAN 2 – .jpg"
     },
@@ -236,7 +236,7 @@
       "id": 30,
       "title": "Super Smash Bros. Ultimate",
       "platform": "Nintendo Switch",
-      "price": 59.99,
+      "price": "59.99$",
       "description": "Le jeu de combat ultime avec tous les personnages de Nintendo et bien plus.",
       "image": "Super Smash Bros.jpg"
     },
@@ -244,7 +244,7 @@
       "id": 45,
       "title": "New Super Lucky's Tale",
       "platform": "Nintendo Switch, Xbox One, PlayStation 4, PC",
-      "price": 29.99,
+      "price": "29.99$",
       "description": "Rejoignez Lucky, un jeune renard, dans une aventure à travers des mondes colorés, des puzzles, et des boss uniques pour sauver sa sœur.",
       "image": "New Super Lucky's Tale .jpg"
     },
